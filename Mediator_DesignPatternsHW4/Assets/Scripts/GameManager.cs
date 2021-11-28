@@ -5,7 +5,6 @@ using TMPro;
 
 public class GameManager : MonoBehaviour
 {
-    public Canvas Canvas;
     public TextMeshProUGUI ManaText;
 
     // Start is called before the first frame update
