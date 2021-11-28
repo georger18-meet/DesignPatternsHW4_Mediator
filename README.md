@@ -1,1 +1,1 @@
-# DesignPatternsHW4_Mediator_
+# DesignPatternsHW4_Mediator
